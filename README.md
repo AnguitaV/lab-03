@@ -26,8 +26,8 @@ User stories must comply with the format "As a [user], I want [functionality], S
 
 You must complete this field with all necessary user stories:
 
-1. As a [user type], I want [functionality], So that [goal].
-2.  
+1. As a user, I want to create a profile, So that I can configure my user info.
+2. 
 3. 
 
 There is no maximum limit of user stories. They will be evaluated based on meeting the given requirements and the completeness of your stories
